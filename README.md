@@ -16,4 +16,4 @@ The usage is almost same with google’s word2vec because it based on it. You ca
 
 Reference
 -------
-Seulki Bae, Youngmin Yi, "Acceleration of word2vec using GPUs", to appear ICONIP, 2016.
+Seulki Bae, Youngmin Yi, "Acceleration of word2vec using GPUs", to appear in ICONIP, 2016.
